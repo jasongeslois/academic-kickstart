@@ -19,7 +19,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "MAS in Spatial Analysis for Public Health"
+  course = "MAS in Spatial Analysis"
   institution = "Johns Hopkins Bloomberg School of Public Health"
   year = 2019
 
@@ -38,4 +38,4 @@ weight = 5
 
 # Biography
 
-I'm an epidemiologist with interests in infection prevention, data science, research, R programming, GIS, and spatial analysis. I'm still working on making updates to this site, and will have some projects I've been working on up soon, but feel free to reach out and say hello. 
+Hello, and welcome to my little corner of the web. I'm an epidemiologist by day and I enjoy solving problems, learning, and discovering all that our world has to offer. I've been involved in public health in different capacities since 2011 and am currently interested in using data science to better predict disease outbreaks, exploring various health and disease models, as well as researching other public health problems. I'm still making updates to this site, and will post some projects I've been working on soon, but feel free to reach out and say hello. 
