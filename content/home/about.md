@@ -21,7 +21,7 @@ weight = 5
 [[education.courses]]
   course = "MAS in Spatial Analysis for Public Health"
   institution = "Johns Hopkins Bloomberg School of Public Health"
-  year = Expected Completion May 2019
+  year = 2019
 
 [[education.courses]]
   course = "MPH in Public Health"
