@@ -284,7 +284,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Certifications"
-  url = "#contact"
+  url = "#Certifications"
   weight = 6
 
 # Link to a PDF of your resume/CV from the menu.
