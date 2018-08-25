@@ -14,7 +14,7 @@ weight = 5
     "Infection Prevention",
     "Data Science",
     "Spatial Analysis",
-    "R Programming"
+    "R Programming & ArcGIS"
   ]
 
 # List your qualifications (such as academic degrees).
