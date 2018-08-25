@@ -66,8 +66,8 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "Jason pic.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "jasongeslois@outlook.com"
-  address = "Texas, USA"
+  #email = "jasongeslois@outlook.com"
+  #address = "Texas, USA"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -282,10 +282,10 @@ enableGitInfo = false
   url = "#teaching"
   weight = 5
 
-#[[menu.main]]
- # name = "Certifications"
- # url = "#Certifications"
- # weight = 6
+[[menu.main]]
+  name = "Certifications"
+  url = "#Certifications"
+  weight = 6
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
