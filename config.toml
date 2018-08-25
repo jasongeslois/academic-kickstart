@@ -283,7 +283,7 @@ enableGitInfo = false
   weight = 5
 
 [[menu.main]]
-  name = "Contact"
+  name = "Certifications"
   url = "#contact"
   weight = 6
 
