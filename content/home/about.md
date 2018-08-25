@@ -10,20 +10,27 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "R Programming",
+    "Epidemiology",
+    "Infection Prevention",
+    "Data Science",
     "Spatial Analysis",
-    "Epidemiology"
+    "R Programming"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
+  course = "MAS in Spatial Analysis for Public Health"
+  institution = "Johns Hopkins Bloomberg School of Public Health"
+  year = Expected Completion May 2019
+
+[[education.courses]]
   course = "MPH in Public Health"
-  institution = "LSU Health Science Center Shreveport"
+  institution = "LSUS / LSU Health Science Center Shreveport"
   year = 2011
 
 [[education.courses]]
   course = "BS in Psychology"
-  institution = "LSU Shreveport"
+  institution = "Louisiana State University Shreveport (LSUS)"
   year = 2008
 
  
@@ -31,4 +38,4 @@ weight = 5
 
 # Biography
 
-I'm an epidemiologist with interests in infection prevention, data science, research, R programming, GIS, and spatial analysis. 
+I'm an epidemiologist with interests in infection prevention, data science, research, R programming, GIS, and spatial analysis. I'm still working on making updates to this site, and will have some projects I've been working on up soon, but feel free to reach out and say hello. 
