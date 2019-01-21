@@ -9,8 +9,8 @@
 
 # The following show an example redirects rule with all the supported properties.
 [[redirects]]
-  from = "/https://jasongeslois.netlify.com"
-  to = "/https://jasongeslois.com"
+  from = ""
+  to = ""
   status = 301
   force = false
   query = {path = ":path"} # apply this rule for /old-path?path=example
